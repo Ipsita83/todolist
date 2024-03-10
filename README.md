@@ -22,4 +22,4 @@ To use the Todo List:
 4. Click on the trash icon to delete a task.
 5. Use the filter buttons to view all tasks, completed tasks, or active tasks.
 6. Your tasks will be saved to local storage, so they will persist even if you close the browser.
-[web site link calculator]([web site link calculator](https://calculator-o84zcsozp-ipsita-mohantys-projects.vercel.app/))
+[web site link todo list](https://calculator-o84zcsozp-ipsita-mohantys-projects.vercel.app/)
